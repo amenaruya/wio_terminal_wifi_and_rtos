@@ -4,6 +4,8 @@ zenn: <https://zenn.dev/amenaruya/articles/801a76734428ec>
 
 This is an example of using WiFi while running other FreeRTOS tasks in Wio Terminal.
 
+## code
+
 ```cpp
 #include "rpcWiFi.h"
 #include <millisDelay.h>
@@ -185,6 +187,8 @@ unsigned long getNtpTime() {
     }
 }
 ```
+
+## serial monitor
 
 ```shell
 
