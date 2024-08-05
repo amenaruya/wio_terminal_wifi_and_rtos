@@ -2,7 +2,7 @@
 
 zenn: <https://zenn.dev/amenaruya/articles/801a76734428ec>
 
-This is how you can use WiFi while running other tasks on FreeRTOS.
+This is an example of using WiFi while running other FreeRTOS tasks in Wio Terminal.
 
 ```cpp
 #include "rpcWiFi.h"
