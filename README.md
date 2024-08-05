@@ -1,4 +1,4 @@
-# wio_terminal_wifi_and_rtos
+# Wio Terminal can use WiFi and FreeRTOS tasks
 
 zenn: <https://zenn.dev/amenaruya/articles/801a76734428ec>
 
